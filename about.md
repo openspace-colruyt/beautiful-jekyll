@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About Us
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are a small team working towards bringing the open source technologies in our company, and as a part of that we put forward this initiative of organizing events.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Mail us your valuable feedback on [@mail](mailto:openspace.colruyt@protonmail.com)
