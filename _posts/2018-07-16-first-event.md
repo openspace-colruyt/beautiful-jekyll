@@ -2,13 +2,14 @@
 layout: post
 title: First Event
 subtitle: A New beginning
+bigimg: /img/first-event.jpg
 tags: [event, pydata, python]
 ---
 
-![Event](/img/first-event.jpg)
 We are excited to announce our first collaborated event with HydPy group, who are very active in the Community
 
 [Colruyt India](https://colruytindia.colruytgroup.com)
 
-Tickets:
+Get your tickets [here](https://www.eventbrite.com/e/pydata-event-what-is-this-search-that-you-speak-of-with-python-client-tickets-48055311731)
 ![QR](/img/first-event-qr.png)
+
