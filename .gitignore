@@ -10,3 +10,5 @@ ehthumbs.db
 
 # trash
 *.unused
+posts/*.unused
+img/*.unused
