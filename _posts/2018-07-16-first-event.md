@@ -31,4 +31,4 @@ Please bring your laptop as this will be hands on session of building scalable m
 
 Get your tickets [here](https://www.eventbrite.com/e/pydata-event-what-is-this-search-that-you-speak-of-with-python-client-tickets-48055311731)
 
-Location: [gMaps](https://goo.gl/maps/dV1csByJA1s)
+Location: [gMap](https://goo.gl/maps/dV1csByJA1s)
